@@ -1,2 +1,2 @@
 # backtrader_sample
-backtraderライブエラリを元に作成していますが、csvファイルは重たくなり、載せられませんでした。
+backtraderライブラリを元に作成していますが、csvファイルは重たくなり、載せられませんでした。
